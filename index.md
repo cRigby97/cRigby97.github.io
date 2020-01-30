@@ -6,4 +6,4 @@
 *or here*
 **or here**
 
-## Maybe I put a link to my repository [here](www.gmail.com)
+## Maybe I put a link to my repository [here](https//www.gmail.com)
