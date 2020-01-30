@@ -6,4 +6,4 @@
 *or here*
 **or here**
 
-## Maybe I put a link to my repository [here](githum.com/cRigby97/math5620)
+## Maybe I put a link to my repository [here](github.com/cRigby97/math5620)
